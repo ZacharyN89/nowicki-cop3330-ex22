@@ -21,7 +21,10 @@ Challenges
     Modify the program so that it asks for ten numbers instead of three.
     Modify the program so that it asks for an unlimited number of numbers.
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex22 {
